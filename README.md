@@ -244,5 +244,5 @@ Anahtar girilmezse demo yerel senaryoyla çalışır.
 
 <p align="center">
   <img src="marka/isaret.svg" width="28" alt=""><br>
-  <sub>© 2026 Çalışıyorum · Demo amaçlıdır; ilanlar, firmalar, eğitimler ve kişiler kurgusaldır bu konu geliştirme aşamasındadır.</sub>
+  <sub>© 2026 Çalışıyorum · Demo amaçlıdır; ilanlar, firmalar, eğitimler ve kişiler kurgusaldır.Şuan da bu konu geliştirme aşamasındadır.</sub>
 </p>
