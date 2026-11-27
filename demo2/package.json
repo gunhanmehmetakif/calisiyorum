@@ -1,0 +1,6 @@
+{
+  "name": "calisiyorum-demo2",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" }
+}

@@ -1,0 +1,9 @@
+.env
+node_modules/
+*.log
+sunum/.chrome-test*/
+sunum/.edge-test/
+sunum/check-*.png
+sunum/contact-sheet.png
+sunum/cover-check.png
+sunum2/

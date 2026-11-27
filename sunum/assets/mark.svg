@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 120" role="img" aria-labelledby="title">
+  <title id="title">Çalışıyorum</title>
+  <path fill="#12B99A" d="M91 13C50 13 18 44 18 83s32 31 73 31c24 0 43-9 58-26l-24-19c-9 10-19 15-34 15-24 0-41-15-41-37s17-37 41-37c15 0 25 5 34 15l24-19C134 22 115 13 91 13Z" transform="translate(0 -7) scale(.82 1)"/>
+  <path fill="#12B99A" d="M62 107h60l-13 12H49z"/>
+  <text x="145" y="84" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-2.8" fill="#0B1F44">Çalışıyorum</text>
+</svg>
