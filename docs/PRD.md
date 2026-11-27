@@ -13,3 +13,5 @@ Gelir: ücretli eğitimler, ilan açma ücreti, sponsorlar.
 - 2026-11-27: Demo akışı: kayıt → CV → koçla 2-3 soru → koç sağa kayar, 2-3 ilan + eğitim önerisi. Veriler örnek.
 - 2026-11-27: Sunum Türkçe, Türkiye odaklı; kitle yatırımcı/jüri, İK, sponsor, okul.
 - 2026-11-27: Kayıttaki koç soruları hazır senaryo (yerel); eşleşme/panel ekranındaki sohbet Gemini ile. Anahtar `demo/.env`'de, iki demo da oradan okur.
+- 2026-11-27: Kod private GitHub reposunda (gunhanmehmetakif/calisiyorum). Yayın: calisiyorum.mehmetakifgunhan.com → demo2 (Claude demosu), Coolify'da Dockerfile ile.
+- 2026-11-27: Ekip: Mehmet Akif Günhan + Nuriyenaz Dönmez (github.com/ndonmez0922-gif); README "Ekip" bölümünde.

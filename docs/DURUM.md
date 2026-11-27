@@ -1,6 +1,8 @@
 # DURUM (2026-11-27)
 
 ## Güncel
+- Yayında: https://calisiyorum.mehmetakifgunhan.com (Coolify, proje `calisiyorum`, app `calisiyorum-demo2`, /demo2 Dockerfile, sağlık /api/status). GEMINI_API_KEY panelde girildi.
+- Kökte `README.md` (ürün turu, sunum, kurulum, ekip) + `docs/ekran/` görüntüleri (canlı siteden ve sunum/ slaytlarından).
 - Logo seçildi (`marka/logo-ana.png`). Kurumsal açık tonlar.
 - `demo/` (GPT): tek akışlı demo, localhost:5173. Gemini anahtarı `demo/.env`de; refine sohbeti Gemini ile sunucu üzerinden doğrulandı.
 - `demo2/` (Claude): ürün tarzı demo hazır (giriş + onboarding + panel + hep açık koç), localhost:5174. Asistan sohbeti Gemini ile sunucu üzerinden doğrulandı; panel akışı tarayıcıda elle denenmedi. Port demo/.env yerine 5174 sabit.
@@ -13,6 +15,7 @@
 3. Sunum verileri resmî kaynaklardan teyit (BULGULAR'da çoğu "doğrulanmadı").
 
 ## Açık sorunlar
+- demo2 küçük görsel kusurlar: uyum halkasında % işareti sayının altına düşüyor; ilan detayında "93%" halkayla çakışıyor; asistan balonlarında altta boşluk.
 - gemini-2.5-flash en erken 1.12.2026'da kapanabilir; fallback gemini-3.5-flash-lite.
 - `sunum/` içinde GPT'nin bıraktığı test dosyaları var (.chrome-test*, check-*.png) — silmek için onay bekleniyor.
 - demo/ başlık harf aralığı çok sıkı (küçük düzeltme).
